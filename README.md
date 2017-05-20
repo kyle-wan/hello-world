@@ -1,3 +1,3 @@
 # hello-world
-This is my first project on Github
-branch
+* This is my first project on Github
+* branch
